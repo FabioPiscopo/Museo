@@ -1,1 +1,1 @@
-# Museo
+Partendo dal dataset proposto, create una dashboard esplorativa di tutte le opere presenti nel museo, sfruttando tutte conoscenze finora acquisite per renderla navigabile da un pubblico di differenti età (bambini, adulti, anziani) valutando delle visualizzazioni e un’organizzazione della dashboard al fine di rendere il più agibile possibile la piattaforma che create.
